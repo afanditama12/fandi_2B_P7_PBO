@@ -2,6 +2,7 @@ package fandi_2B_P7_PBO;
 import java.util.Scanner;
 public class percoban6 {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
